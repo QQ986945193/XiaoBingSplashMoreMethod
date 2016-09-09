@@ -3,7 +3,9 @@
 作者：程序员小冰，CSDN博客：http://blog.csdn.net/qq_21376985
 QQ986945193 微博：http://weibo.com/mcxiaobing
 首先给大家看一下今天实现的效果图（其他三种都差不太多底下详细介绍）：
-![](http://img.blog.csdn.net/20160909104841533?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+
+http://blog.csdn.net/qq_21376985/article/details/50887558
+
 这个启动页实现的方法是四种，两种是利用handler，其它两种是利用了动画的方式。
 具体给大家贴一下源代码吧，很简单。
 布局文件就一个图片，mainfest添加上我们的类就行了。
