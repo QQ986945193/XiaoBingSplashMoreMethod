@@ -9,7 +9,9 @@ QQ986945193 微博：http://weibo.com/mcxiaobing
 具体给大家贴一下源代码吧，很简单。
 布局文件就一个图片，mainfest添加上我们的类就行了。
 java实现代码如下：
-    package xiaobingsplashmoremethod.qq986945193.xiaobingsplashmoremethod.xiaobingsplashmoremethod;
+ ```
+
+package xiaobingsplashmoremethod.qq986945193.xiaobingsplashmoremethod.xiaobingsplashmoremethod;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -180,5 +182,5 @@ public class SplashActivity extends Activity {
     }
 }
 
-
+```
 如果对您有帮助，欢迎star，fork。。。
