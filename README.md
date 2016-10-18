@@ -1,9 +1,9 @@
 # XiaoBingSplashMoreMethod
  【Android】android开发之splash闪屏页的四种实现方式，启动页的实现教程。
  
-作者：程序员小冰，CSDN博客：http://blog.csdn.net/qq_21376985
+作者：[程序员小冰](http://blog.csdn.net/qq_21376985)
 
-QQ986945193 微博：http://weibo.com/mcxiaobing
+[欢迎点击关注我的微博](http://weibo.com/mcxiaobing)
 
 首先给大家看一下今天实现的效果图（其他三种都差不太多底下详细介绍）：
 
